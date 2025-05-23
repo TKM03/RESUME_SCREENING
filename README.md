@@ -33,7 +33,6 @@ This project demonstrates an AI-based resume screening and job-matching tool tha
 2. **Embed** the documents using `sentence-transformers` models.
 3. **Compute cosine similarity** between each resume and job description.
 4. **Rank and score** resumes by relevance.
-5. *(Optional)* Visualize similarity scores and export results.
 
 ---
 
