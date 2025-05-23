@@ -16,6 +16,14 @@ This project demonstrates an AI-based resume screening and job-matching tool tha
 
 ---
 
+## 🧪 Try the Live Demo
+
+👉 **Hugging Face Spaces**:  
+🔗 [TKM03/ResumeExtraction](https://huggingface.co/spaces/TKM03/ResumeExtraction)
+🔗 [TKM03/ResumeMatching](https://huggingface.co/spaces/TKM03/ResumeMatching)
+
+---
+
 ## 🧰 Tech Stack
 
 - **Python 3.9+**
@@ -23,7 +31,7 @@ This project demonstrates an AI-based resume screening and job-matching tool tha
 - **Hugging Face** embeddings
 - **scikit-learn** for similarity calculations
 - **Pandas & Matplotlib** for data analysis and visualization
-- **Gradio** for UI deployment
+- **Tkinter** for UI deployment
 
 ---
 
